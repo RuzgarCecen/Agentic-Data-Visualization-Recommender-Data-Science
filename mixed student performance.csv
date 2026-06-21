@@ -1,0 +1,17 @@
+department,gender,attendance_rate,final_score,weekly_study_hours
+CS,F,92.0,88,12
+Business,M,75.0,70,6
+CS,M,88.0,84,10
+Engineering,F,81.0,79,8
+Business,F,69.0,65,5
+CS,F,95.0,91,14
+Engineering,M,78.0,76,7
+CS,M,85.0,82,9
+Business,F,72.0,68,6
+Engineering,M,80.0,77,8
+CS,F,90.0,89,11
+Business,M,74.0,71,6
+Engineering,F,,80,9
+CS,M,87.0,85,10
+Business,F,70.0,67,5
+CS,M,88.0,84,10
